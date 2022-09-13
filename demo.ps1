@@ -1,5 +1,5 @@
 function Get-Hacked() {
-  Write-Host "You got Hacked...!!!" -ForegroundColor DarkGreen
+  Write-Host "`n`tYou got Hacked...!!!`n" -ForegroundColor DarkGreen
 }
 
 Get-Hacked
