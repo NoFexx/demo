@@ -49,8 +49,10 @@ while($true) {
 
 
 " Cyan 
-    Start-Sleep -s 5
-    Write-Slow_Draw "You just got hacked" Green # Enter your ASCII text in the quotes, change the color of the text by changing Green to any color in the write-slowly function.
+    Start-Sleep -s 2
+    Write-Slow_Draw "`t`tOh no!  how inexpressible dreadful..." Red
+    Start-Sleep -s 2
+    Write-Slow_Draw "A long extinct T-Rex just hacked your computer" Green # Enter your ASCII text in the quotes, change the color of the text by changing Green to any color in the write-slowly function.
     Start-Sleep -s 5
     Clear-Host
 }
