@@ -1,7 +1,12 @@
 function Get-Hacked() {
-  Write-Host " "
-  Write-Host "`n`tYou got Hacked...!!!`n" -ForegroundColor DarkGreen
-  Write-Host " "
+        Write-Host "╭╮╱╱╭╮╱╱╱╱╱╱╱╭╮╱╱╱╱╱╭╮╱╱╱╱╱╱╱╭╮╱╭╮╱╭╮╱╱╱╱╱╭╮╱╱╱╱╱╱╭╮" -ForegroundColor Green
+        Write-Host "┃╰╮╭╯┃╱╱╱╱╱╱╱┃┃╱╱╱╱╭╯╰╮╱╱╱╱╱╭╯╰╮┃┃╱┃┃╱╱╱╱╱┃┃╱╱╱╱╱╱┃┃" -ForegroundColor Green
+        Write-Host "╰╮╰╯╭┻━┳╮╭╮╱╱┃┣╮╭┳━┻╮╭╯╭━━┳━┻╮╭╯┃╰━╯┣━━┳━━┫┃╭┳━━┳━╯┃" -ForegroundColor Green
+        Write-Host "╱╰╮╭┫╭╮┃┃┃┃╭╮┃┃┃┃┃━━┫┃╱┃╭╮┃╭╮┃┃╱┃╭━╮┃╭╮┃╭━┫╰╯┫┃━┫╭╮┃" -ForegroundColor Green
+        Write-Host "╱╱┃┃┃╰╯┃╰╯┃┃╰╯┃╰╯┣━━┃╰╮┃╰╯┃╰╯┃╰╮┃┃╱┃┃╭╮┃╰━┫╭╮┫┃━┫╰╯┃" -ForegroundColor Green
+        Write-Host "╱╱╰╯╰━━┻━━╯╰━━┻━━┻━━┻━╯╰━╮┣━━┻━╯╰╯╱╰┻╯╰┻━━┻╯╰┻━━┻━━╯" -ForegroundColor Green
+        Write-Host "╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱" -ForegroundColor Green
+        Write-Host "╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱" -ForegroundColor Green
 }
 
 Get-Hacked
